@@ -1,0 +1,10 @@
+System_FSM.c:16:6:switchAutoState	24	static
+System_FSM.c:23:6:fsm_traffic_auto_mode	136	static
+System_FSM.c:143:6:isButtonDebounced	24	static
+System_FSM.c:151:6:logNewTime	8	static
+System_FSM.c:161:6:display_timerRed	24	static
+System_FSM.c:168:6:display_timerGreen	24	static
+System_FSM.c:175:6:display_timerAmber	24	static
+System_FSM.c:182:6:fsm_traffic_tunning_mode	8	static
+System_FSM.c:300:6:fsm_switch_mode	8	static
+System_FSM.c:322:6:fsm_traffic	8	static
